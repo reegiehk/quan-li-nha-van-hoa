@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Phòng hội trường lớn",
+    "type": "Phòng",
+    "capacity": 200,
+    "status": "Sẵn sàng"
+  },
+  {
+    "id": 2,
+    "name": "Máy chiếu Epson",
+    "type": "Thiết bị",
+    "capacity": 1,
+    "status": "Đang sử dụng"
+  },
+  {
+    "id": 3,
+    "name": "Bộ bàn ghế học tập",
+    "type": "Thiết bị",
+    "capacity": 20,
+    "status": "Tốt"
+  },
+  {
+    "id": 4,
+    "name": "Phòng học số 2",
+    "type": "Phòng",
+    "capacity": 30,
+    "status": "Sẵn sàng"
+  }
+]
