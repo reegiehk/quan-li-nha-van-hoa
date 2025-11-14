@@ -1,4 +1,29 @@
 {
   "_todo": "- Define event schema (id, title, start_time, end_time, resources, organizer).\n- Add sample events for testing.\n- Consider calendar export/import format (iCal).",
-  "lich": []
+  "lich": [
+    {
+      "id": "1",
+      "title": "Họp tổ dân phố số 5",
+      "start_time": "2026-04-15T08:00:00",
+      "end_time": "2026-04-15T11:30:00",
+      "resources": ["Hội trường lớn"],
+      "organizer": "Tổ trưởng tổ dân phố số 5"
+    },
+    {
+      "id": "2",
+      "title": "Lớp học nhảy",
+      "start_time": "2026-05-05T14:00:00",
+      "end_time": "2026-05-05T16:00:00",
+      "resources": ["Phòng đa năng"],
+      "organizer": "CLB năng khiếu"
+    },
+    {
+      "id": "3",
+      "title": "Hội thao phường abc",
+      "start_time": "2026-07-01T07:00:00",
+      "end_time": "2026-07-01T11:30:00",
+      "resources": ["Khu thể thao"],
+      "organizer": "UBND phường abc"
+    }
+  ]
 }
