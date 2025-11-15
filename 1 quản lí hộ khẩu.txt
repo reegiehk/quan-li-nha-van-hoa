@@ -1,0 +1,23 @@
+1 quản lí hộ khẩu
+
+-2 cấp, hộ khẩu - nhân khẩu
+
+-chức năng
++thêm bớt
++chuyển
++tra cứu
+
+2 quản lí sử dụng nhà văn hóa
+
+-quản lí hoạt động - lịch
+
+-quản lí người
+
+-quản lí tài sản, đồ dùng
+
+
+* code
+
+- code để chạy
+- lưu data
+-giao diện html
